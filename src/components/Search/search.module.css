@@ -1,0 +1,31 @@
+.searchContainer {
+    padding-left: 24px;
+    text-align: center;
+    font-family: 'Roboto';
+}
+
+.searchInput {
+    width: 100%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(51, 51, 51, 0.04), 0px 4px 24px rgba(51, 51, 51, 0.24);
+    border-radius: 4px;
+    padding: 16px;
+    border: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: rgba(17, 17, 17, 0.48);
+}
+
+.searchInput:focus-visible {
+    outline: none;
+}
+
+.searchText {
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 10px;
+}

@@ -1,0 +1,15 @@
+.pageItem {
+    cursor: pointer;
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    color: #000000;
+    min-width: 30px;
+    padding-bottom: 10px;
+}
+
+.pageItemActive {
+    border-bottom: solid 3px #65B79A;
+}

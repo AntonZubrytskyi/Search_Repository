@@ -1,0 +1,10 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 36px;
+    list-style-type: none;
+    text-decoration: none;
+    margin-top: 36px;
+    text-align: center;
+}
